@@ -1,0 +1,60 @@
+.section-search input {
+    padding: 5px !important;
+    font-size: 18px !important;
+    width: 90% !important;
+    border: indianred 0px !important;
+}
+
+
+ 
+   
+.dropdown-content li>a, .dropdown-content li>span { 
+         color: indianred !important;
+
+   }
+
+
+
+.section-search {
+    color:indianred;
+    border: indianred;
+    background-color: indianred;
+}
+
+.section-icons{
+    color: indianred;
+
+    
+}
+h4{
+    color:black;
+}
+p1{ 
+    color: black;
+} 
+    
+.section-follow{
+    background-color:indianred;
+}
+
+
+footer{
+    background-color:indianred;
+    color:white;
+    
+}
+
+p2{
+    background-color: indianred;
+}
+.btn{
+    background-color: IndianRed;
+}
+
+h3{ 
+    color:black;
+}
+
+h5{
+    color:indianred;
+}
